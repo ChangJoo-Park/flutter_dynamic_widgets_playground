@@ -1,6 +1,12 @@
 # dynamic_widget_playground
 
-A new Flutter project.
+[Live Example](https://changjoo-park.github.io/flutter_dynamic_widgets_playground/#/)
+
+
+![](screenshot.png)
+
+
+- [dynamic_widget](https://pub.dev/packages/dynamic_widget)
 
 ## Getting Started
 
